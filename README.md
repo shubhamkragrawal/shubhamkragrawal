@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on enhancing my skills and putting them to practical.
-- 🌱 I’m currently learning <b> Data Analytics and Machine Learning </b>
+- 🌱 I’m currently learning <b> Machine Learning, Reinforcement Learning, RAGs and LLM applications</b> .
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-kumar-agrawal/) , [Kaggle](https://www.kaggle.com/skagrawal)
+- You can find my Portfolio at [Shubham's Portfolio](https://shubhamkragrawal.github.io)
 - ⚡ Fun fact: I cook food to relieve stress and when I get burnt out!!
 
 <!--
