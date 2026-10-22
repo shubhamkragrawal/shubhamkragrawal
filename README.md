@@ -8,7 +8,7 @@ I bring industry data-product experience from BlueOptima and Everpure and curren
 
 | Project | What it demonstrates | Evidence |
 |---|---|---|
-| [RLAIF Flight Dialogue](https://github.com/shubhamkragrawal/rlaif-airdialouge) | Solo Qwen 2.5 3B rebuild using LoRA SFT, DPO, bounded PPO and adaptive PPO, integrated with deterministic transaction controls | Base-to-best policy task success: 16% → 38% on the same 50 held-out scenarios; 200 integrated scenarios with valid transitions and zero unsupported transaction claims; 425 automated tests |
+| [RLAIF Flight Dialogue](https://github.com/shubhamkragrawal/rlaif-flight-dialogue) | Solo Qwen 2.5 3B rebuild using LoRA SFT, DPO, bounded PPO and adaptive PPO, integrated with deterministic transaction controls | Base-to-best policy task success: 16% → 38% on the same 50 held-out scenarios; 200 integrated scenarios with valid transitions and zero unsupported transaction claims; 425 automated tests |
 | [TrialGuard](https://github.com/shubhamkragrawal/TrialGuard) | Bounded Bedrock roles with deterministic citation, numeric, language and release gates for clinical-trial evidence review | 84 automated tests and seven fixed synthetic release behaviors; not clinical validation or decision authority |
 | [TrialOutcome](https://github.com/shubhamkragrawal/trialoutcome) | Leakage-corrected temporal modeling, calibration, conformal uncertainty, explainability and scoped serving | Corrected held-out ROC-AUC 0.7662, ECE 0.0310 and 93.1% conformal coverage against a 90% target |
 | [PharmaPulse](https://github.com/shubhamkragrawal/pharmpulse) | Recoverable ELT and analytics platform using PostgreSQL, dbt, Airflow, Tableau and Streamlit | 594,309 trials, 29,218 FDA applications, 24 staging tests and 118 mart tests |
